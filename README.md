@@ -29,9 +29,7 @@
 ## 🧠 Formula References
 
 - **BMI:**  
-  \[
-  \text{BMI} = \frac{\text{Weight (kg)}}{(\text{Height (m)})^2}
-  \]
+  BMI = weight / (height²)
 
 - **BMR (Mifflin-St Jeor Equation):**  
   - For Men: `BMR = 10W + 6.25H - 5A + 5`  
